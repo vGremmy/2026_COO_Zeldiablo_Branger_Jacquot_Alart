@@ -3,15 +3,15 @@
 ## Membres du groupe
 
 Liste des membres du projet :
-- Prenom Nom adresse@etu.univ-lorraine
-- Prenom Nom adresse@etu.univ-lorraine
-- Prenom Nom adresse@etu.univ-lorraine
+- Branger Matheo
+- Jacquot Kyliane
+- Alart Timeo
 - Prenom Nom adresse@etu.univ-lorraine
 
 Liste des adresses mail
-adresse@etu.univ-lorraine
-adresse@etu.univ-lorraine
-adresse@etu.univ-lorraine
+matheo.branger8@etu.univ-lorraine.fr
+kyliane.jacquot2@etu.univ-lorraine.fr
+timeo.alart2@etu.univ-lorraine.fr
 adresse@etu.univ-lorraine
 
 ## Etat du projet
